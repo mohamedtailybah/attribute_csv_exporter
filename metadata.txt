@@ -1,0 +1,19 @@
+[general]
+name=Attribute Table to CSV
+qgisMinimumVersion=3.0
+description=Export the attribute table of a vector layer (e.g. a shapefile) to a CSV file
+version=0.1
+author=Mohamed Taily Bah
+email=mohamedtailybah@example.com
+
+about=Select any loaded vector layer (shapefile, GeoPackage, etc.) and export its attribute table to a CSV file, optionally exporting only the selected features.
+tracker=
+repository=
+category=Vector
+
+hasProcessingProvider=no
+tags=csv,export,attributes,shapefile,vector
+homepage=
+icon=icon.png
+experimental=False
+deprecated=False
